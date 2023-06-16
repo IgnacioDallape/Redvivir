@@ -1,0 +1,73 @@
+.fondoRojo{
+    background-color: rgb(168, 151, 151);
+}
+
+.centrado{
+    display: flex;
+    justify-content: center;
+    border: solid 1px black;
+}
+
+.backgroundStyle {
+    background-image: url('https://i.ibb.co/B4tNjkV/fondo-redvivir-1-removebg-preview-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 50%;
+    background-color: #e6eded;
+}
+
+.header__logo{
+    width: 10%;
+    border-radius: 1rem;
+
+}
+
+
+.headers__title{
+    background-color: #3d4a77;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    width: fit-content;
+    border: 2px solid black;
+    color: white;
+}
+
+
+.header__logoImg{
+    transition: transform 0.3s ease-in-out;
+}
+
+.header__logoImg:hover{
+    transform: scale(1.2);
+}
+
+.headers__button{
+    background-color: #3d4a77;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    width: fit-content;
+    border: 2px solid black;
+    color: white;
+    transition: transform 0.5s ease-out;
+}
+
+.headers__button:hover{
+    transform: scale(1.2);
+}
+
+.redesSociales{
+    position: relative;
+    bottom: 12rem;
+    right: 4rem;
+}
+
+.header__redesSociales__logo {
+    width: 3rem;
+    border-radius: 1rem;
+    padding: 5px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.header__redesSociales__logo:hover {
+    transform: scale(1.2);
+}
