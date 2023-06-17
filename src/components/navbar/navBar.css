@@ -5,7 +5,6 @@
 .centrado{
     display: flex;
     justify-content: center;
-    border: solid 1px black;
 }
 
 .backgroundStyle {
@@ -57,8 +56,8 @@
 
 .redesSociales{
     position: relative;
-    bottom: 12rem;
-    right: 4rem;
+    bottom: 10.3rem;
+    right: 14rem;
 }
 
 .header__redesSociales__logo {
@@ -71,3 +70,6 @@
 .header__redesSociales__logo:hover {
     transform: scale(1.2);
 }
+
+
+

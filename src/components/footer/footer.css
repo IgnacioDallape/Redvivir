@@ -1,0 +1,31 @@
+
+
+.footer{
+    background-color: #3d4a77;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+
+.footer__hijo {
+    padding: 5px;
+    color: white;
+}
+
+.footer__redesSociales{
+
+}
+
+.footer__redesSociales__logo {
+    width: 3rem;
+    border-radius: 1rem;
+    padding: 5px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.footer__redesSociales__logo:hover {
+    transform: scale(1.2);
+}

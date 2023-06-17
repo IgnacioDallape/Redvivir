@@ -18,6 +18,7 @@ root.render(
           <Route exact path='/principal' element={<Principal/>}/>
           <Route exact path='/secundaria' element={<Secundaria/>}/>
         </Routes>
+      <Footer/>
     </BrowserRouter>
   </React.StrictMode>
 );
