@@ -47,11 +47,12 @@
     width: fit-content;
     border: 2px solid black;
     color: white;
-    transition: transform 0.5s ease-out;
+    transition: transform 0.5s ease;
 }
 
 .headers__button:hover{
-    transform: scale(1.2);
+    transform: rotate(-3deg) ;
+    color: rgb(196, 196, 244);
 }
 
 .redesSociales{
@@ -64,7 +65,7 @@
     width: 3rem;
     border-radius: 1rem;
     padding: 5px;
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.5s ease-in;
 }
 
 .header__redesSociales__logo:hover {

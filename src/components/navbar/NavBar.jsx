@@ -35,19 +35,19 @@ const NavBar = () => {
 
       <div className='' style={{ display: 'flex', justifyContent: 'space-evenly', paddingTop: '1rem' }}>
         <div>
-          <Link to={'/principal'}>  <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> RedVivir </button></Link>
+          <Link to={'/redvivir'}>  <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '1.2rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> RedVivir  <img src="https://i.ibb.co/N1SdsHR/aaa-1-removebg-preview.png" alt="" style={{ width: '2rem'}}  /> </button> </Link>
         </div>
         <div>
-          <Link to={'/entrevistasPersonales'}>  <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Entrevistas Personales </button></Link>
+          <Link to={'/entrevistasPersonalizadas'}>  <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Entrevistas <br /> Personalizadas </button></Link>
         </div>
 
 
         <div>
-          <Link to={'/entrevistasOnline'} > <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Entrevistas On-Line </button> </Link>
+          <Link to={'/entrevistasOnline'} > <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem 1rem 0.5rem 1rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Entrevistas  <br /> On-Line </button> </Link>
         </div>
 
         <div>
-          <a to={'/secundaria'} > <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Taller On-Line </button> </a>
+          <a href='' > <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem 1.2rem 0.5rem 1.2rem ', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Taller  <br /> On-Line </button> </a>
         </div>
 
       </div>
