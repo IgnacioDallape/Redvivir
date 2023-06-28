@@ -1,10 +1,12 @@
 import React from 'react'
 import './entrevistasOnLine.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const EntrevistasOnLine = () => {
     return (
         <>
-            <div>
+            <div  style={{ paddingBottom:'5rem'}}>
                 <h1 className='d-flex justify-content-center' style={{ paddingTop: '3rem' }}> Entrevistas Online </h1>
 
                 <div>
@@ -21,23 +23,21 @@ const EntrevistasOnLine = () => {
 
                     </div>
 
-                    <div className='container d-flex'   style={{ paddingTop: '3rem' }}>
-                        <div >
-                                <img src="https://i.ibb.co/2k1hP7N/entrevista-online.jpg" alt="entrevistas Online" style={{ width: '20rem' }} />
-
-                            {/* <div class=" container border " style={{ width: '23%' }}>
-                                <div >
-                                    <p class="border">Lunes:</p>
-                                    <p class="border">Martes:</p>
-                                    <p class="border">Miercoles:</p>
-                                    <p class="border">Jueves:</p>
-                                    <p class="border">Viernes:</p>
-                                    <p class="border">Sabado:</p>
-                                    <p class="border">Domingo:</p>
-                                </div>
-                            </div> */}
+                    <div className=' d-flex justify-content-center align-items-center' style={{ paddingTop: '3rem' , gap:'15rem'}}>
+                        <div>
+                            <img src="https://i.ibb.co/2k1hP7N/entrevista-online.jpg" alt="entrevistas Online" style={{ width: '20rem' }} />
+                        </div>
+                        <div className=" border " style={{ width: '23%' }}>
+                            <p className="border">Lunes:</p>
+                            <p className="border">Martes:</p>
+                            <p className="border">Miércoles:</p>
+                            <p className="border">Jueves:</p>
+                            <p className="border">Viernes:</p>
+                            <p className="border">Sábado:</p>
+                            <p className="border">Domingo:</p>
                         </div>
                     </div>
+
                 </div>
 
             </div>

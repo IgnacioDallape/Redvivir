@@ -41,7 +41,6 @@ const NavBar = () => {
           <Link to={'/entrevistasPersonalizadas'}>  <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Entrevistas <br /> Personalizadas </button></Link>
         </div>
 
-
         <div>
           <Link to={'/entrevistasOnline'} > <button className='headers__button' style={{ borderRadius: '0.5rem', padding: '0.5rem 1rem 0.5rem 1rem', boxShadow: '0 2px 4px rgba(0, 0, 0, 0.2)' }}> Entrevistas  <br /> On-Line </button> </Link>
         </div>
