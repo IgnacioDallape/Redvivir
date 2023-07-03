@@ -4,9 +4,9 @@
 
 /*fieldset, img {border:0}*/
 
-ol, ul, li {list-style:none}
+/* ol, ul, li {list-style:none}
 
-:focus {outline:none}
+:focus {outline:none} */
 
 /*
 textarea,
@@ -17,30 +17,7 @@ select {
   
 }
 */
-.text_escucha p {
-  font-size: 13px;
-  width: 150px;
-  display:flex;
-  margin-left: 50px;
-  margin-bottom: 15px;
-  align-items: center;
-  justify-content: flex-start;
-  align-content: center;
-  flex-wrap: wrap;
-}
-.form_box h1 {
-  font-size: 32px;
-  justify-content: flex-end;
-  font-weight: 300;
-  color: #4c4c4c;
-  text-align: center;
-  padding-top: 10px;
-  margin-bottom: 10px;
-}
 
-div.formulario_img {
-  display: flow-root;
-}
 /*
 .testBox {
   
@@ -67,14 +44,7 @@ div.textBox {
     justify-content: flex-start;
 }
 
-.escucha {
-  display: flex;
-  padding: 5rem;
-}
 
-input[type=radio] {
-  visibility: hidden;
-}
 
 .form_box{
   margin: 0 25px;
