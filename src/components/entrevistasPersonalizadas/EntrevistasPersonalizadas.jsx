@@ -12,11 +12,50 @@ const EntrevistasPersonalizadas = () => {
               <h3 className='d-flex justify-content-center pt-1'>
                 Escucha Activa
               </h3>
-              <p style={{ fontFamily: 'Roboto' }}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa, possimus dicta. Possimus quis quasi velit veniam beatae perferendis expedita aliquam quo optio ea nostrum dicta neque quibusdam sequi maxime numquam voluptate accusantium error asperiores aspernatur, natus vel eveniet? Dignissimos incidunt error perspiciatis a nihil aut assumenda nesciunt minus. Blanditiis mollitia repellendus quidem ipsa nostrum iusto autem, consequuntur exercitationem et magni ut labore velit architecto rem placeat ad reiciendis eveniet minima deserunt nobis cumque rerum quod totam. Error aperiam, ratione nesciunt ea sequi eius cum rem nobis eaque perspiciatis eum voluptas eos, vero officiis    libero quae, asperiores minus laboriosam sit incidunt!</p>
+              <p style={{ fontFamily: 'Roboto' }}>
+                La escucha activa es una habilidad que implica prestar atención plena y respetuosa a lo que el otro está comunicando, 
+                tanto verbal como no verbalmente. No se trata solo de oír las palabras, 
+                sino de comprender profundamente los sentimientos y las necesidades detrás de ellas. 
+                Al ser conscientes de nuestros propios pensamientos y emociones mientras escuchamos, 
+                podemos establecer una conexión genuina y apoyar a quienes nos rodean.
+                <br/>
+                <br/>
+                La escucha activa tiene múltiples beneficios para nuestro bienestar emocional y nuestras relaciones:
+                <br/>
+                <br/>
+
+                <b>Fortalece la empatía</b>: Al escuchar activamente, demostramos a los demás que nos importan sus sentimientos y preocupaciones. 
+                Esta actitud empática promueve la confianza y la apertura en las interacciones sociales.
+                <br/>
+
+                <b>Mejora la comunicación</b>: Al comprender plenamente lo que el otro intenta transmitir, 
+                podemos responder de manera más efectiva y evitar malentendidos. La escucha activa facilita la resolución de conflictos y 
+                promueve la colaboración y el trabajo en equipo.
+                <br/>
+
+                <b>Fomenta el autoconocimiento</b>: Al estar conscientes de nuestras propias respuestas emocionales mientras escuchamos, 
+                podemos aprender más sobre nosotros mismos. La escucha activa nos brinda la oportunidad de explorar nuestros propios prejuicios, 
+                creencias y patrones de comunicación.
+                <br/></p>
               <h4 className="d-flex justify-content-center pt-5">¿Cómo funciona?</h4>
               <p className="pt-4">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, alias! Id esse delectus dolorem a optio ipsum sunt eveniet recusandae consequatur praesentium voluptatibus facilis fuga explicabo, vero doloribus sequi nulla iste dolorum illum deleniti? Consequatur animi, ratione hic, sapiente sunt ipsam veritatis beatae assumenda iste, aperiam dicta harum. Quas incidunt illo impedit in ducimus. Quibusdam nulla suscipit magnam enim earum corrupti ratione, odit minima voluptatem, aliquid sint vitae libero reiciendis totam rerum alias voluptas dignissimos. Nobis fuga rem sunt fugit ipsa, nisi qui omnis? Deleniti molestiae aspernatur maiores iusto perferendis sequi non blanditiis tempore similique repudiandae. Iusto, magni esse. Maxime pariatur in aliquid. Ea, fuga sapiente vero ipsa alias quia reprehenderit eveniet, voluptatem aspernatur quibusdam odio omnis, consequatur ipsam iste!
-              </p>
+                 Prácticas para desarrollar la Escucha Activa:
+                 <br/>
+                <br/>
+                <b>Estar presente</b>: Dediquemos tiempo y atención exclusiva a la persona que habla. 
+                Evitemos distracciones y enfoquémonos en sus palabras y lenguaje no verbal.
+                <br/>
+                <b>Mantener contacto visual</b>: El contacto visual establece una conexión más profunda y 
+                muestra nuestro interés genuino en lo que el otro tiene que decir.
+                <br/>
+                <b>Hacer preguntas clarificadoras</b>: Para asegurarnos de comprender completamente el mensaje del hablante, 
+                hagamos preguntas que permitan aclarar cualquier ambigüedad o confusión.
+                <br/>
+                <b>Validar emociones</b>: Reconozcamos y validemos las emociones del hablante sin juzgar ni minimizar. 
+                Esto les brindará la seguridad de que son escuchados y comprendidos.
+                <br/>
+                <b>Evitar interrupciones</b>: Dejemos que el hablante termine su expresión antes de responder. 
+                Evitemos interrumpir o terminar sus frases por ellos.</p>
             </div>
             <div className='article_activa pt-5'>
               <img src='https://i.ibb.co/k3YZxCx/entrevista-presencial-1.jpg' alt='escucha_activa' style={{ width: '23rem', borderRadius: '10px' }} />

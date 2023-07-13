@@ -12,8 +12,44 @@ const EntrevistasOnLine = () => {
                 <div>
                     <h3 className='d-flex justify-content-center' style={{ paddingTop: '3rem' }}>Objetivo De Las Entrevistas</h3>
                     <div className='container d-flex justify-content-center' style={{ textAlign: 'justify', paddingTop: '3rem' }} >
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora accusantium vel tempore, aperiam vero totam amet. Ratione nostrum natus, dolore fuga consectetur quas odit itaque esse error officiis amet sunt id consequuntur placeat dolorum minima possimus dicta ex harum blanditiis quod. Nulla, iste, ea error eius veniam, in nesciunt suscipit fugiat debitis quas ipsam quia ex. Accusantium quos, odio excepturi ea aspernatur officia est modi, dicta eos expedita assumenda fugit ut mollitia dolorum eum, deserunt suscipit! Hic debitis doloribus quas ad iste delectus inventore deleniti, recusandae, natus ea maxime placeat velit cupiditate asperiores vel est dolores totam vero nulla aspernatur?</p>
-
+                        <p>Las entrevistas online representan una valiosa herramienta para brindar apoyo emocional y asesoramiento psicológico 
+                            en la era digital. Al proporcionar acceso fácil, privacidad, flexibilidad y superar barreras geográficas y sociales, 
+                            estas entrevistas se han convertido en una opción cada vez más popular y efectiva para aquellos que buscan 
+                            mejorar su bienestar emocional. A través de plataformas virtuales, las personas pueden recibir el apoyo necesario y 
+                            trabajar en su crecimiento personal desde cualquier lugar, adaptando las sesiones a sus horarios y necesidades individuales. 
+                            La tecnología ha abierto nuevas puertas para el cuidado de la salud mental, 
+                            y las entrevistas online son un claro ejemplo de ello.
+                            <br/>
+                            <br/>
+                            <b>Accesibilidad y comodidad</b>:
+                            El objetivo principal de las entrevistas online es proporcionar un espacio seguro y confidencial donde las personas 
+                            puedan expresar sus emociones y recibir orientación psicológica. Al eliminar las barreras físicas y geográficas, 
+                            las entrevistas online brindan una oportunidad para acceder a profesionales cualificados desde cualquier lugar 
+                            con conexión a Internet. Esto resulta especialmente beneficioso para aquellos que viven en áreas remotas 
+                            o tienen dificultades para desplazarse debido a limitaciones físicas o compromisos familiares y laborales.
+                            <br/>
+                            <b>Privacidad y confidencialidad</b>:
+                            Las plataformas de entrevistas online están diseñadas para garantizar la privacidad y la confidencialidad de las sesiones. 
+                            Las conversaciones son protegidas y encriptadas, lo que asegura que la información compartida se mantenga segura 
+                            y se mantenga en el ámbito privado del cliente y el terapeuta. 
+                            Esta confidencialidad es esencial para que los individuos se sientan seguros al abrirse 
+                            y compartir sus preocupaciones más íntimas.
+                            <br/>
+                            <b>Flexibilidad y conveniencia</b>:
+                            La realización de entrevistas online ofrece una gran flexibilidad y 
+                            conveniencia tanto para el cliente como para el profesional. 
+                            Los horarios de las sesiones pueden adaptarse a las necesidades individuales, lo que facilita la conciliación 
+                            con otras responsabilidades diarias. Además, no se requiere tiempo de viaje, lo que ahorra tiempo y 
+                            reduce el estrés asociado con los desplazamientos.
+                            <br/>
+                            <b>Superando barreras</b>:
+                            Las entrevistas online también ayudan a superar barreras adicionales que podrían dificultar el acceso al apoyo emocional.
+                             Algunas personas pueden experimentar ansiedad social o sentirse incómodas al compartir sus problemas cara a cara. 
+                             La modalidad online proporciona una sensación de anonimato y puede ayudar a reducir la ansiedad 
+                             asociada con las interacciones presenciales. Además, las personas que enfrentan barreras lingüísticas 
+                             o culturales pueden encontrar profesionales que hablen su idioma o que estén familiarizados con su contexto cultural, 
+                             lo que facilita la comprensión y la conexión emocional.</p>
+                             <br/>
                     </div>
                     <div >
                         <h3 className='d-flex justify-content-center container' style={{ paddingTop: '3rem' }}> Encargado de las entrevistas </h3>
